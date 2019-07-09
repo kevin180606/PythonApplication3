@@ -6,7 +6,7 @@ def make_dot_string(x):
     numspaces =int(20*cos(radians(x))+20)
     st =' '*numspaces+'o'
     return st
-#what's your problem
+# add add add add 
 def main():
     for i in range(0,1800,12):
         s=make_dot_string(i)
